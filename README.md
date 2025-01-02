@@ -1,8 +1,6 @@
 # Multilingual Chatbot for Commonwealth Bank
 
-## Project Overview
-
-This project aims to revolutionize chatbot accessibility for non-English speaking customers of Commonwealth Bank by leveraging serverless computing and advanced AI language processing technologies. Our solution enables multilingual capabilities within chatbot interfaces, facilitating banking inquiries in the customer's native language to foster inclusivity and ease-of-use.  Developed with Tony Hsieh, Akshita Mediratta and Kimme Tan.
+Developed with Tony Hsieh, Akshita Mediratta and Kimme Tan.
 
 ### Challenge
 
