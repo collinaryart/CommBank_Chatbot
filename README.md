@@ -1,17 +1,13 @@
 # Multilingual Chatbot for Commonwealth Bank
 
-Developed with Tony Hsieh, Akshita Mediratta and Kimme Tan.
+This chatbot integrates Azure Function Apps for serverless computing, Azure Cognitive Services for language detection and translation, and OpenAI's API for AI-driven response generation. This approach aims to provide seamless engagement for customers across various linguistic backgrounds. 
 
-### Challenge
-
-The initiative focuses on enhancing communication through:
+The initiative assists customers by:
 - Auto-detecting the language used by the user.
 - Processing banking inquiries in multiple languages.
 - Utilising user-friendly interfaces that consider cultural nuances to bridge the communication gap.
 
-### Solution
-
-We are developing a chatbot that integrates with Azure Function Apps for serverless computing, Azure Cognitive Services for language detection and translation, and OpenAI's API for AI-driven response generation. This approach aims to provide seamless engagement for customers across various linguistic backgrounds.
+Developed with Tony Hsieh, Akshita Mediratta and Kimme Tan.
 
 ## Technology Stack
 
