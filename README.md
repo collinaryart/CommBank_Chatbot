@@ -97,22 +97,4 @@ We are developing a chatbot that integrates with Azure Function Apps for serverl
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
-## Contributors
-
-- **Tony** - Contributed to the overall project development, focusing on integrating Azure Function Apps and ensuring seamless operation across different components of the chatbot. Provided leadership and ensured smooth operation across chatbot components.
-  - [GitHub](https://github.com/ITU-0327)
-  - [LinkedIn](https://www.linkedin.com/in/i-tung-hsieh-it)
-
-- **Akshita** - Played a key role in integrating Azure Cognitive Services, ensuring the chatbot's language detection and response generation capabilities were optimized for multilingual support. Additionally, Akshita took on the role of project manager, overseeing project timelines, coordinating tasks among team members, and ensuring project milestones were met efficiently.
-  - [GitHub]()
-  - [LinkedIn]()
-
-- **Kimme** - Specialized in user experience and testing, making the chatbot interface intuitive and accessible across diverse linguistic backgrounds. Led the collection of user feedback and the refinement of chatbot functionality. Played a key role in integrating the Translator API, enriching the chatbot's multilingual support and advanced conversational abilities.
-  - [GitHub](https://github.com/shuenyng)
-  - [LinkedIn](https://www.linkedin.com/in/shuen-y%E2%80%99ng-tan-942b36198/)
-
-Each member of the team has been instrumental in all phases of the project, from planning and development to testing and refinement, demonstrating a collaborative effort throughout.
-
----
-
 This project is part of the Monash Innovation Guarantee unit, aiming to use cutting-edge technology to make banking solutions more inclusive and accessible.
