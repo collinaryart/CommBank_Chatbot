@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to revolutionize chatbot accessibility for non-English speaking customers of Commonwealth Bank by leveraging serverless computing and advanced AI language processing technologies. Our solution enables multilingual capabilities within chatbot interfaces, facilitating banking inquiries in the customer's native language to foster inclusivity and ease of interaction from diverse linguistic backgrounds.
+This project aims to revolutionize chatbot accessibility for non-English speaking customers of Commonwealth Bank by leveraging serverless computing and advanced AI language processing technologies. Our solution enables multilingual capabilities within chatbot interfaces, facilitating banking inquiries in the customer's native language to foster inclusivity and ease-of-use.  Developed for CommBank as part of the Monash Innovation Guarantee 2024, with Tony Hsieh, Akshita Mediratta and Kimme Tan.
 
 ### Challenge
 
