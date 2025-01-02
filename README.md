@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to revolutionize chatbot accessibility for non-English speaking customers of Commonwealth Bank by leveraging serverless computing and advanced AI language processing technologies. Our solution enables multilingual capabilities within chatbot interfaces, facilitating banking inquiries in the customer's native language to foster inclusivity and ease-of-use.  Developed for CommBank as part of the Monash Innovation Guarantee 2024, with Tony Hsieh, Akshita Mediratta and Kimme Tan.
+This project aims to revolutionize chatbot accessibility for non-English speaking customers of Commonwealth Bank by leveraging serverless computing and advanced AI language processing technologies. Our solution enables multilingual capabilities within chatbot interfaces, facilitating banking inquiries in the customer's native language to foster inclusivity and ease-of-use.  Developed with Tony Hsieh, Akshita Mediratta and Kimme Tan.
 
 ### Challenge
 
@@ -77,24 +77,6 @@ We are developing a chatbot that integrates with Azure Function Apps for serverl
 4. Start the Azure Function App locally for testing.
    - Follow the Azure Functions extension in Visual Studio Code to run your app.
 
-## Development and Contribution
-
-### Mock Data Preparation
-
-- Create mock data covering a range of banking inquiries in different languages for initial testing.
-
-### Testing and Feedback
-
-- Perform functionality and user experience testing with multilingual individuals.
-- Iteratively refine the chatbot based on feedback.
-
-### Demonstration Preparation
-
-- Develop scenarios to showcase the chatbot's capabilities effectively.
-- Prepare presentation materials and practice demonstration scenarios.
-
 ## License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-
-This project is part of the Monash Innovation Guarantee unit, aiming to use cutting-edge technology to make banking solutions more inclusive and accessible.
