@@ -7,7 +7,7 @@ Developed with Tony Hsieh, Akshita Mediratta and Kimme Tan.
 The initiative focuses on enhancing communication through:
 - Auto-detecting the language used by the user.
 - Processing banking inquiries in multiple languages.
-- Utilizing user-friendly interfaces that consider cultural nuances to bridge the communication gap.
+- Utilising user-friendly interfaces that consider cultural nuances to bridge the communication gap.
 
 ### Solution
 
