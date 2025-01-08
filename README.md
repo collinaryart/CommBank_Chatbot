@@ -1,6 +1,6 @@
 # Multilingual Chatbot for Commonwealth Bank
 
-This chatbot integrates Azure Function Apps for serverless computing, Azure Cognitive Services for language detection and translation, and OpenAI's API for AI-driven response generation. This approach aims to provide seamless engagement for customers across various linguistic backgrounds. 
+This chatbot integrates Azure Function Apps for serverless computing, Azure Cognitive Services for language detection and translation, and OpenAI's API for AI-driven response generation. This approach aims to provide seamless engagement for customers of CommBank across various linguistic backgrounds. 
 
 The initiative assists customers by:
 - Auto-detecting the language used by the user.
