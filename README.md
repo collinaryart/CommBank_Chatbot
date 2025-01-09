@@ -9,7 +9,7 @@ The initiative assists customers by:
 
 Developed with Tony Hsieh, Akshita Mediratta and Kimme Tan.
 
-## Technology Stack
+## Tech Stack
 
 - **Azure Function Apps**: Serverless computing for chatbot logic.
 - **Azure Cognitive Services & Translator Text API**: For multilingual support.
